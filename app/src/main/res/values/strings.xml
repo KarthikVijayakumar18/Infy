@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Infy</string>
+    <string name="login">Login</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="image_desc">Image</string>
+    <string name="username_validation">Enter valid username</string>
+    <string name="password_validation">Enter valid password</string>
+    <string name="forgot_password_text">Forgot your password ?</string>
+    <string name="connect_text">---------- or Connect With ----------</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="otp">OTP</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="otp_verification_text">Enter Six digit OTP send on your mobile number.</string>
+    <string name="submit">Submit</string>
+    <string name="ok">Ok</string>
+
+    //FCM
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Infy</string>
+    <string name="fcm_message">FCM Message</string>
+
+    <string name="register_text">
+        <![CDATA[ Don\'t have an account ? <b><font color=#fc5a03>Register</b>]]>
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
